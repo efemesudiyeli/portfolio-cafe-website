@@ -1,0 +1,66 @@
+{
+  "drinks": [
+    {
+      "title": "Coffee",
+      "price": "10 USD",
+      "description": "Various freshly brewed coffee options."
+    },
+    {
+      "title": "Latte",
+      "price": "12 USD",
+      "description": "A delightful blend of espresso and steamed milk."
+    },
+    {
+      "title": "Mocha",
+      "price": "13 USD",
+      "description": "Perfect harmony of coffee, milk, and chocolate sauce."
+    },
+    {
+      "title": "Tea",
+      "price": "8 USD",
+      "description": "A selection of freshly brewed teas."
+    },
+    {
+      "title": "Smoothie",
+      "price": "9 USD",
+      "description": "Refreshing and healthy fruit smoothies."
+    },
+    {
+      "title": "Iced Tea",
+      "price": "7 USD",
+      "description": "Chilled and invigorating iced tea options."
+    }
+  ],
+  "foods": [
+    {
+      "title": "Sandwich",
+      "price": "15 USD",
+      "description": "Delicious sandwiches made with fresh ingredients."
+    },
+    {
+      "title": "Salad",
+      "price": "14 USD",
+      "description": "Healthy and tasty salad choices."
+    },
+    {
+      "title": "Pizza",
+      "price": "20 USD",
+      "description": "Soft dough and generously topped pizzas."
+    },
+    {
+      "title": "Pasta",
+      "price": "18 USD",
+      "description": "Homemade and flavorful pasta varieties."
+    },
+    {
+      "title": "Burger",
+      "price": "16 USD",
+      "description": "Juicy and mouthwatering burgers."
+    },
+    {
+      "title": "Soup",
+      "price": "12 USD",
+      "description": "Comforting and hearty soup options."
+    }
+  ]
+}
