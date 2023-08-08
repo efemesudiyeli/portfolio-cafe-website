@@ -93,14 +93,14 @@ export default function Carousel() {
           <div className="flex flex-col justify-around px-8 ">
             <div>
               <h2 className="font-extrabold text-3xl max-lg:text-xl">
-                QUICKLY, EVERYONE STOP WHAT YOU'RE DOING AND FILL UP THE
+                QUICKLY, EVERYONE STOP WHAT YOU&apos;RE DOING AND FILL UP THE
                 COFFEES.
               </h2>
               <p className="font-extralight max-lg:text-sm">
                 Discover a place where nature comes alive, smiles spread, and
                 friendships blossom: Our Cafe. With every sip, warm
-                conversations will uplift your spirits, and you'll start your
-                day with renewed energy. <br /> <br /> Welcome!
+                conversations will uplift your spirits, and you&apos;ll start
+                your day with renewed energy. <br /> <br /> Welcome!
               </p>
             </div>
             <div className=" flex gap-2">

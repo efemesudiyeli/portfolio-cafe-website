@@ -14,8 +14,8 @@ export default function Clickables() {
             Franchise!
           </h2>
           <p className="max-w-2xl ">
-            It's time to start your dream business! We offer you an opportunity
-            that will bring you success and profitability: &nbsp;
+            It&apos;s time to start your dream business! We offer you an
+            opportunity that will bring you success and profitability: &nbsp;
             <span className="text-base-100 bg-white">[Franchise Name]</span>
             &nbsp; Franchise is the most reliable way to start and grow your own
             business!
